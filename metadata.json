@@ -1,0 +1,6 @@
+{
+  "name": "คัดกรองข้อมูลสุขภาพ",
+  "description": "ระบบวิเคราะห์และคัดกรองข้อมูลสุขภาพความเสี่ยงโรคเบาหวานและความดันโลหิตสูง โดย พรรษา บอนขุนทด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
